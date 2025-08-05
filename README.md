@@ -39,7 +39,7 @@ All vulnerabilities have been addressed:
 ---
 
 ## Social Submission
-Check out my LinkedIn post: [🔗 LinkedIn Task 3 Post](#)
+Check out my LinkedIn post: [🔗 LinkedIn Task 3 Post](#https://www.linkedin.com/posts/bongani-funzo-788887283_securecoding-cybersecurity-codealpha-activity-7358447087417475072-gENx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUBy5gB6SSC1NCv4kevzDAThOqe5RnwB54)
 > #SecureCoding #CyberSecurity #CodeAlpha #Python #Internship #InfoSec
 
 ---
