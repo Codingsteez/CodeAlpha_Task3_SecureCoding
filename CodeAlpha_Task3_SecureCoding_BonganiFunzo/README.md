@@ -22,7 +22,6 @@ The original script had the following critical issues:
 
 ## Fixed Version: [`secure_script.py`](./secure_script.py)
 All vulnerabilities have been addressed:
- -------------------------------------------------------------------------------
 | Issue                 | Fix                                                   |
 |-----------------------|-------------------------------------------------------|
 | Hardcoded credentials | Replaced with secure input using `getpass`            |
